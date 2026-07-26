@@ -45,8 +45,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=SultanNabil2002&theme=flat&no-frame=true&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </p>
 
-### 📊 GitHub Stats
 <p align="center">
+  ### 📊 GitHub Stats
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SultanNabil2002" alt="Sultan's streak stats" />
 </p>
 
