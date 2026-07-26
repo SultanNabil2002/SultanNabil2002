@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sultan Nabil</h1>
-<h3 align="center">Full-Stack Developer | Building end-to-end web applications</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=200&section=header&text=Sultan%20Nabil&fontSize=48&fontColor=ffffff&desc=Full-Stack%20Developer&descAlignY=62&descSize=20" alt="header banner" />
+</p>
 
 <p align="center">
   <a href="https://sultan-nabil.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
@@ -7,13 +8,15 @@
   <a href="mailto:sultannabil110@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
----
+<p align="center">
+  I'm a Full-Stack Developer who enjoys building web applications end-to-end — from the database and API layer all the way to a polished, responsive interface. I like digging into the "why" behind a bug more than just fixing it.
+</p>
 
-### 🚀 About Me
-- 🎓 Informatics Engineering graduate (GPA 3.72, Magna Cum Laude) — Universitas Budi Luhur
-- 🛠️ Currently building a full-stack **e-commerce platform** (NestJS + Next.js + PostgreSQL + Stripe)
-- 🌱 Always learning — currently exploring Data Structures & Algorithms
+- 🔭 Currently building a full-stack e-commerce platform (NestJS + Next.js + PostgreSQL + Stripe)
+- 🌱 Currently exploring Data Structures & Algorithms
 - 💬 Ask me about NestJS, Next.js, or REST API design
+
+---
 
 ### 🧰 Tech Stack
 
@@ -37,16 +40,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-### 📌 Featured Project
-**E-Commerce Platform (Full-Stack)** — NestJS · Prisma · PostgreSQL · Next.js · Redux Toolkit · Stripe
-JWT dual-token auth, RBAC, Stripe payment integration, and a relational schema built with transaction-safe cart operations.
-*(repo link coming soon)*
+---
 
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SultanNabil2002&show_icons=true&theme=default" alt="Sultan's GitHub stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SultanNabil2002&theme=flat&no-frame=true&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SultanNabil2002" alt="Sultan's streak stats" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=100&section=footer" alt="footer banner" />
 </p>
