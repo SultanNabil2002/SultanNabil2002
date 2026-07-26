@@ -9,12 +9,11 @@
 </p>
 
 <p align="center">
-  I'm a Full-Stack Developer who enjoys building web applications end-to-end — from the database and API layer all the way to a polished, responsive interface. I like digging into the "why" behind a bug more than just fixing it.
+  I'm a Full-Stack Developer who enjoys building web applications end-to-end from the database and API layer all the way to a polished, responsive interface. I like digging into the "why" behind a bug more than just fixing it.
 </p>
 
 - 🔭 Currently building a full-stack e-commerce platform (NestJS + Next.js + PostgreSQL + Stripe)
 - 🌱 Currently exploring Data Structures & Algorithms
-- 💬 Ask me about NestJS, Next.js, or REST API design
 
 ---
 
@@ -44,6 +43,11 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SultanNabil2002&theme=flat&no-frame=true&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+</p>
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SultanNabil2002" alt="Sultan's streak stats" />
 </p>
 
 <p align="center">
